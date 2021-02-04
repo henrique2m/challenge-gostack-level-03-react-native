@@ -30,6 +30,7 @@ export const Product = styled.View`
   padding: 15px 10px;
   border-radius: 5px;
   margin: 5px;
+  min-height: 100px;
   flex-direction: row;
 `;
 
